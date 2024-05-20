@@ -1,0 +1,6 @@
+print("Задание 2")
+a = input(' ')
+b = a.split()
+c = list(reversed(b))
+d = ' '.join(c)
+print(d)
